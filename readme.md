@@ -30,22 +30,22 @@
 2. [**4.2.** References and Borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html) Done
 3. [**4.3.** The Slice Type](https://doc.rust-lang.org/book/ch04-03-slices.html) Done
 
-[**5.** Using Structs to Structure Related Data](https://doc.rust-lang.org/book/ch05-00-structs.html) Doing
+[**5.** Using Structs to Structure Related Data](https://doc.rust-lang.org/book/ch05-00-structs.html) Done
 
-1. [**5.1.** Defining and Instantiating Structs](https://doc.rust-lang.org/book/ch05-01-defining-structs.html) Doing
-2. [**5.2.** An Example Program Using Structs](https://doc.rust-lang.org/book/ch05-02-example-structs.html)
-3. [**5.3.** Method Syntax](https://doc.rust-lang.org/book/ch05-03-method-syntax.html)
+1. [**5.1.** Defining and Instantiating Structs](https://doc.rust-lang.org/book/ch05-01-defining-structs.html) Done
+2. [**5.2.** An Example Program Using Structs](https://doc.rust-lang.org/book/ch05-02-example-structs.html) Done
+3. [**5.3.** Method Syntax](https://doc.rust-lang.org/book/ch05-03-method-syntax.html) Done
 
-[**6.** Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html)
+[**6.** Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html) Done
 
-1. [**6.1.** Defining an Enum](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html)
-2. [**6.2.** The match Control Flow Construct](https://doc.rust-lang.org/book/ch06-02-match.html)
-3. [**6.3.** Concise Control Flow with if let](https://doc.rust-lang.org/book/ch06-03-if-let.html)
+1. [**6.1.** Defining an Enum](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html) Done
+2. [**6.2.** The match Control Flow Construct](https://doc.rust-lang.org/book/ch06-02-match.html) Done
+3. [**6.3.** Concise Control Flow with if let](https://doc.rust-lang.org/book/ch06-03-if-let.html) Done
 
-[**7.** Managing Growing Projects with Packages, Crates, and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
+[**7.** Managing Growing Projects with Packages, Crates, and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html) Doing
 
-1. [**7.1.** Packages and Crates](https://doc.rust-lang.org/book/ch07-01-packages-and-crates.html)
-2. [**7.2.** Defining Modules to Control Scope and Privacy](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html)
+1. [**7.1.** Packages and Crates](https://doc.rust-lang.org/book/ch07-01-packages-and-crates.html) Done
+2. [**7.2.** Defining Modules to Control Scope and Privacy](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html) Doing
 3. [**7.3.** Paths for Referring to an Item in the Module Tree](https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html)
 4. [**7.4.** Bringing Paths Into Scope with the use Keyword](https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html)
 5. [**7.5.** Separating Modules into Different Files](https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html)
