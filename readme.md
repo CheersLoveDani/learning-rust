@@ -45,15 +45,15 @@
 [**7.** Managing Growing Projects with Packages, Crates, and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html) Doing
 
 1. [**7.1.** Packages and Crates](https://doc.rust-lang.org/book/ch07-01-packages-and-crates.html) Done
-2. [**7.2.** Defining Modules to Control Scope and Privacy](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html) Doing
-3. [**7.3.** Paths for Referring to an Item in the Module Tree](https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html)
-4. [**7.4.** Bringing Paths Into Scope with the use Keyword](https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html)
-5. [**7.5.** Separating Modules into Different Files](https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html)
+2. [**7.2.** Defining Modules to Control Scope and Privacy](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html) Done
+3. [**7.3.** Paths for Referring to an Item in the Module Tree](https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html) Done
+4. [**7.4.** Bringing Paths Into Scope with the use Keyword](https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html) Done
+5. [**7.5.** Separating Modules into Different Files](https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html) Done
 
-[**8.** Common Collections](https://doc.rust-lang.org/book/ch08-00-common-collections.html)
+[**8.** Common Collections](https://doc.rust-lang.org/book/ch08-00-common-collections.html) Doing
 
-1. [**8.1.** Storing Lists of Values with Vectors](https://doc.rust-lang.org/book/ch08-01-vectors.html)
-2. [**8.2.** Storing UTF-8 Encoded Text with Strings](https://doc.rust-lang.org/book/ch08-02-strings.html)
+1. [**8.1.** Storing Lists of Values with Vectors](https://doc.rust-lang.org/book/ch08-01-vectors.html) Done
+2. [**8.2.** Storing UTF-8 Encoded Text with Strings](https://doc.rust-lang.org/book/ch08-02-strings.html) Doing
 3. [**8.3.** Storing Keys with Associated Values in Hash Maps](https://doc.rust-lang.org/book/ch08-03-hash-maps.html)
 
 [**9.** Error Handling](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
